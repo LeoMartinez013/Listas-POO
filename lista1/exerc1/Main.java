@@ -1,4 +1,4 @@
-package lista1.exerc1;
+package exerc1;
 
 public class Main {
     public static void main(String[] args) {
